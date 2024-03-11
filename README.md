@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorklock
-- 👀 I’m interested in codining, puzzles and mind bogling simple solutions to problems.
-- 🌱 I’m currently learning NextJS, C#, Google Ads API and Facebook CAPI.
+- 👀 I’m interested in coding, puzzles and mind bogling simple solutions to problems.
+- ⚔️ I’m currently working with NextJS, Google Ads API, Facebook CAPI and project managing.
 - 📫 Reach me at klockvitor@gmail.com
 - 🦉 Potoos are cool.
 
